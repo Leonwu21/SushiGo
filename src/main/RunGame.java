@@ -45,7 +45,7 @@ public class RunGame {
         Player player1 = new Player(user1);
         Player player2 = new Player(user2);
         
-        // Mnstantiate hands -> cards
+        // Instantiate hands -> cards
         deal(player1);
         deal(player2);
         declareHand(player1);
